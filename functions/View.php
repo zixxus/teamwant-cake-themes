@@ -1,6 +1,6 @@
 <?php
 
-namespace teamwant\themes;
+namespace Teamwant\Themes;
 
 class View{
 
