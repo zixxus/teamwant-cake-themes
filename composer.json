@@ -1,0 +1,11 @@
+{
+    "name": "teamwant/themes",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Mateusz Szymanski Teamwant",
+            "email": "zzixxus@gmail.com"
+        }
+    ],
+    "require": {}
+}
